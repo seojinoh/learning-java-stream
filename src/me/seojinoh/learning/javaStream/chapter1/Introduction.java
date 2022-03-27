@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class introduction {
+public class Introduction {
 
 	public static void main(String[] args) {
 		// Stream API 소개
