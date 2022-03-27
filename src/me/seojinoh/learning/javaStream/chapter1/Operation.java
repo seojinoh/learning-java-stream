@@ -3,7 +3,7 @@ package me.seojinoh.learning.javaStream.chapter1;
 import java.util.Arrays;
 import java.util.List;
 
-public class operation {
+public class Operation {
 
 	public static void main(String[] args) {
 		// Stream API 3단계
